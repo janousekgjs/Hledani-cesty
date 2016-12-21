@@ -1,2 +1,2 @@
-# Hledani-cesty
-Heldání cesty z hodirn programování na GJS
+# Seminar-programovani
+Hodiny programování a moje svěží dílka
