@@ -1,0 +1,8 @@
+for(i = 1; i<=10;i+=3)
+{
+  if(!zdi[(stav.d + i)%4])   
+  {
+     stav.d = (stav.d + i) % 4;
+     return stav.d;
+  }
+}
